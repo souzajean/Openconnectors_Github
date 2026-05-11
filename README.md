@@ -31,3 +31,29 @@ O fluxo é iniciado por uma requisição HTTP (HTTPS Sender), que aciona o iFlow
 </p>
 
 ---
+
+## 📋 Índice
+
+<details open>
+<summary><strong>Clique para expandir/recolher</strong></summary>
+
+1. [🎯 Visão Geral](#-visão-geral)
+2. [⚙️ Arquitetura da Solução](#️-arquitetura-da-solução)
+3. [🔧 Configuração Open Connectors](#-como-funciona)
+4. [📡 Configuração do iFlow](#-configuração-do-iflow)
+5. [📡 Testando com Postman](#-testando-com-postman)
+6. [🔐 Segurança & Boas Práticas](#-segurança--boas-práticas)
+7. [📦 Downloads](#-downloads)
+8. [🤝 Contribuindo](#-contribuindo)
+
+</details>
+
+---
+
+<br>
+
+## 🎯 Visão Geral
+
+Este iFlow implementa uma integração entre o GitHub e o SAP Cloud Integration, utilizando o SAP Open Connectors como camada de abstração para consumo de APIs.
+
+
