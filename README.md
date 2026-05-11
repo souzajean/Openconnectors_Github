@@ -32,6 +32,8 @@ O fluxo é iniciado por uma requisição HTTP (HTTPS Sender), que aciona o iFlow
 
 ---
 
+---
+
 ## 📋 Índice
 
 <details open>
@@ -49,6 +51,44 @@ O fluxo é iniciado por uma requisição HTTP (HTTPS Sender), que aciona o iFlow
 </details>
 
 ---
+
+<br>
+
+## 🎯 Visão Geral
+
+Este iFlow implementa uma integração entre o GitHub e o SAP Cloud Integration, utilizando o SAP Open Connectors como camada de abstração para consumo de APIs.
+
+---
+
+## ⚙️ Arquitetura da Solução
+
+![Fluxo](imagens/Screenshot_28.png)
+
+## 🚀 Como Funciona
+
+### 📥 Entrada da Requisição
+
+```
+POST /github
+
+```
+
+
+## 🔧 Configuração do iFlow
+
+> **Package:** `ZPKG_IntegrationGitHub_OpenConnectors`  
+> **iFlow:** `IFL_GITHUB_INTEGRATION`
+
+<br>
+
+
+### 🔹 1. Extend Non SAP Connectivity
+![Fluxo](imagens/Screenshot_1.png)
+
+Nome do Package:
+```
+Discover Connectors
+```
 
 <br>
 
