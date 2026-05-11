@@ -17,4 +17,10 @@ O fluxo é iniciado por uma requisição HTTP (HTTPS Sender), que aciona o iFlow
   <img src="https://img.shields.io/badge/Open_Connectors-Connectivity-orange?style=for-the-badge" alt="Open Connectors">
   <!-- JSON / API -->
   <img src="https://img.shields.io/badge/JSON-Data_Format-black?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <!-- HTTPS -->
+  <img src="https://img.shields.io/badge/Security-HTTPS-green?style=for-the-badge&logo=google-cloud&logoColor=white" alt="HTTPS">
+  <!-- OAuth 2.0 (Comum em Open Connectors) -->
+  <img src="https://img.shields.io/badge/Auth-OAuth_2.0-blueviolet?style=for-the-badge" alt="OAuth 2.0">
+  <!-- REST -->
+  <img src="https://img.shields.io/badge/Architecture-REST_API-00ADEF?style=for-the-badge&logo=postman&logoColor=white" alt="REST">
 </p>
