@@ -24,3 +24,10 @@ O fluxo é iniciado por uma requisição HTTP (HTTPS Sender), que aciona o iFlow
   <!-- REST -->
   <img src="https://img.shields.io/badge/Architecture-REST_API-00ADEF?style=for-the-badge&logo=postman&logoColor=white" alt="REST">
 </p>
+
+
+<p align="center">
+  <img src="imagens/capa-linkedin.png" alt="Fluxo Principal" width="100%">
+</p>
+
+---
